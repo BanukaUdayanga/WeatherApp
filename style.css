@@ -79,3 +79,12 @@ body {
     font-size: 28px;
     margin-top: -6px;
 }
+.weather {
+    display: none;
+}
+.error {
+    font-size: 18px;
+    margin-top: 20px;
+    display: none;
+    color: red;
+}
